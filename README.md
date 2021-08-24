@@ -1,1 +1,1 @@
-# salas_de_reuni-es_com_Java_e_Angular
+# salas_de_reunioes_com_Java_e_Angular
